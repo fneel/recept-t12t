@@ -1,0 +1,18 @@
+bild-banner stretched
+
+titel på recept
+
+inledande text i en grå container 
+
+[Rubrik Ingredienser
+antal portioner
+punktlista med ingredienser]
+
+[Rubrik "Såhär gör du"
+Punktlista steg för steg]
+
+[Rubrik "Serveringsförslag"
+Två bilder, horisontellt placerade]
+
+Backgrund: rosa #A10000 30%
+Container width: 1280px
