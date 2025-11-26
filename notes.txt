@@ -16,3 +16,31 @@ Två bilder, horisontellt placerade]
 
 Backgrund: rosa #A10000 30%
 Container width: 1280px
+
+
+EDITS TO DO
+
+ta bort main-content (class)
+
+byt vissa divs mot sections
+    header (banner, titel, intro-text)
+    ingredienser (rubrik, "för 2 pers", ul)
+    så här gör du (rubrik, ol)
+    serveringsförslag (rubrik, galleri)
+
+använd <header> ist för div class "banner"
+
+gjort:
+bytt divs mot sections/header
+tagit bort "main-content" (låg under main)
+bytt namn på "text-content" till "main-content" (och gjort till section)
+
+
+struktur:
+
+body
+    main    
+        header
+        section main-content
+        section recept
+        section servering
